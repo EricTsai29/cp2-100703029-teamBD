@@ -3,7 +3,7 @@
 # 99XXXXXX, 99XXXXXX, 99XXXXXX
 
 function hello1() {
-print(â€œhello, member1â€™s nameâ€);
+print(@œhello, member1€™s name€);
 }
 
 function hello2() {
